@@ -331,15 +331,9 @@ $(function() {
 
         "per_evt": [
             "at a party",
-<<<<<<< HEAD
             "breakfast",
             "lunch",
             "dinner",
-=======
-            "at breakfast",
-            "at lunch",
-            "at dinner",
->>>>>>> master
             "having tea with",
             "at Starbucks with",
             "in a meeting",
