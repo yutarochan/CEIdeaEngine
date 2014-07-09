@@ -43,7 +43,6 @@ $(function() {
             "If you were to be @hist_fig for a day, what would you do and why?",
             "If you were given the superpower of , what would you use it for and why?",
             "If you can time travel to the year of " + Math.floor((Math.random() * 1000) + 1000) + ", what would you do?",
-            "In your opinion, what do you think about @curr_events?",
             "What does @abs_noun mean to you? Give an instance of how that word fufills that definition in your life."
         ],
 
@@ -414,31 +413,6 @@ $(function() {
             "elasticity",
             "self-destruction",
             "illusions"
-        ],
-
-        "curr_events": [
-            "college education",
-            "abortion",
-            "gun controll",
-            "the NSA",
-            "digital freedom",
-            "cryptocurrency",
-            "legalization of marijuana",
-            "obesity",
-            "Obamacare/Health Care Laws",
-            "Social Networking",
-            "climate changes",
-            "environmental issues",
-            "gay marriage",
-            "origins of sexual orientation",
-            "drone technology",
-            "technological advancements",
-            "terrorism",
-            "death penalty",
-            "global warming",
-            "plastic surgery",
-            "stem cell",
-            "genetically modified foods"
         ],
 
         "abs_noun": [
