@@ -8,7 +8,8 @@ $(function() {
             "What about:",
             "Hey, you should write about:",
             "Try writing about:",
-            "I know, how about:"
+            "I know, how about:",
+            "Wait, I think I got it this time:"
         ],
 
         "response": [
