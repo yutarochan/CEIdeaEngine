@@ -43,7 +43,7 @@ $(function() {
             "If you were to be @hist_fig for a day, what would you do and why?",
             "If you were given the superpower of @super_pwr, what would you use it for and why?",
             "If you can time travel to the year of " + Math.floor((Math.random() * 1000) + 1000) + ", what would you do?",
-            "What does @abs_noun mean to you? Give an instance of how that word fufills that definition in your life."
+            "What does @abs_noun mean to you? Give an instance of how that word applies to your life."
         ],
 
         "made_you_emotions": [
