@@ -1,6 +1,5 @@
 
 $(function() {
-
     // Populate using an object literal
     WTF.init({
         "heading": [
